@@ -2,7 +2,8 @@
 <p align="center">🔥 I'm Torsumethkk, I'm student/programmer (Front-End Developer) </p>
 
 ### 🧑 - About Me
-I'm student from Watnuannoradit School, Bangkok. Now I'm a Front-End Developer. <br> I have experience about website developer for 2 years.
+I'm a student at Watnuannoradit School in Bangkok, Thailand.
+I'm currently working as a Front-End Developer and have 2 years of experience in web development.
 
 ---
 
@@ -12,7 +13,9 @@ I'm student from Watnuannoradit School, Bangkok. Now I'm a Front-End Developer. 
 ---
 
 ### 📚 - Currently learning
-Now I'm learning about Back-End Developer, As can you see I've Next.js in my tech stack. But I not ever use it for backend. <br> I just used it because Next.js's routing system is easy to use.
+I'm currently learning about backend development.
+As you can see, Next.js is part of my tech stack — but I haven’t actually used it for backend work yet.
+I mainly use it because its routing system is simple and easy to work with.
 
 ---
 
