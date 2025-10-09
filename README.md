@@ -26,10 +26,5 @@ I mainly use it because its routing system is simple and easy to work with.
 
 ---
 
-### 📊 - My GitHub Stats
-![Torsumethkk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Torsumethkk51&show_icons=true&theme=tokyonight)
-
----
-
 ### ✉️ - Contact Me
 + Email : torsumethkkhoyo@gmail.com
