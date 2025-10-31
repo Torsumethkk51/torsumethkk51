@@ -8,21 +8,17 @@ I'm currently working as a Front-End Developer and have 2 years of experience in
 ---
 
 ### 🧑‍💻 - Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,react,nextjs,tailwindcss,postgres,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwindcss,mongodb)](https://skillicons.dev)
 
 ---
 
 ### 📚 - Currently learning
-I'm currently learning about backend development.
-As you can see, Next.js is part of my tech stack — but I haven’t actually used it for backend work yet.
-I mainly use it because its routing system is simple and easy to work with.
+I'm currently learning about backend development with MERN stack.
 
 ---
 
 ### 🎯 - My target in this year!
 + Be a Fullstack Developer.
-+ Learn DSA (Data Structure And Algorithm).
-+ Practice problem solving skill.
 
 ---
 
