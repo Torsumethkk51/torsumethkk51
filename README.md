@@ -9,8 +9,8 @@ I'm currently working as a Front-End Developer and have 2 years of experience in
 
 ---
 
-## 🧑‍💻 - Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwindcss,mongodb)](https://skillicons.dev)
+## 🧑‍💻 - My Skilss
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwindcss,mongodb,cpp)](https://skillicons.dev)
 
 ---
 
