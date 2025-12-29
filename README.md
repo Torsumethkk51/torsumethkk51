@@ -22,5 +22,3 @@
 - 📧 Email: [torsumethkk.main@gmail.com](mailto:torsumethkk.main@gmail.com)  
 - 🌐 Facebook: [Sumeth Kaewkatechadaporn](https://www.facebook.com/SumethKaewkatechadaporn)
 
-[![Torsumethkk51's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torsumethkk511)](https://github.com/anuraghazra/github-readme-stats)
-
