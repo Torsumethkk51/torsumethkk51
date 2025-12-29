@@ -16,7 +16,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Current Projects and Interests
-### Currently, I am working on fullstack website projects using the MERN stack. I am focusing on learning backend development to become a proficient fullstack developer.
+### Currently, I am working on fullstack website projects using the MEVN stack. I am focusing on learning backend development to become a proficient fullstack developer.
 
 ## Contact Information and Social Links
 - 📧 Email: [torsumethkk.main@gmail.com](mailto:torsumethkk.main@gmail.com)  
