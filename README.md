@@ -1,7 +1,5 @@
 # Hi everyone 👋</h1>
 
-<img width="1920" height="853" alt="Image" src="https://github.com/user-attachments/assets/2398c06f-47fd-4ba7-92d0-29b1b5cb6c7d" />
-
 ### Hello, my name is Sumeth Kaewkatechadaporn. I am currently a student at Wat Nuannoradit School in Bangkok, Thailand. I am a Fullstack developer (currently focusing on learning Backend development) with about 3 years of experience in web development.
 
 ## Skills
