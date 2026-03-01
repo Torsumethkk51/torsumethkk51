@@ -1,6 +1,6 @@
 # Hi everyone 👋</h1>
 
-### Hello, my name is Sumeth Kaewkatechadaporn. I am currently a student at Wat Nuannoradit School in Bangkok, Thailand. I am a Fullstack developer (currently focusing on learning Backend development) with about 3 years of experience in web development.
+### Hello, my name is Sumeth Kaewkatechadaporn. I am a Fullstack developer (currently focusing on learning Backend development) with about 3 years of experience in web development.
 
 ## Skills
 
