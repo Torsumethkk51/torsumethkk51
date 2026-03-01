@@ -28,4 +28,4 @@
 ## Contact Information and Social Links
 
 * 📧 Email: [torsumethkkhoyo@gmail.com](mailto:torsumethkkhoyo@gmail.com)
-* 🌐 Facebook: [Sumeth Kaewkatechadaporn](https://www.facebook.com/SumethKaewkatechadaporn)
+* 🌐 Facebook: [Sumeth Kaewkatechadaporn](https://www.facebook.com/Sumeth%220Kaewkatechadaporn)
