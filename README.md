@@ -22,6 +22,7 @@ I'm a Programmer passionate about bridging the gap between high-level web interf
 I am currently obsessed with how code interacts with hardware. My recent explorations include:
 * **Memory Architecture:** Understanding stack frames and data alignment.
 * **Performance:** Optimizing C code for CPU efficiency.
+* **Computer Architecture:** Learning how computers work and how to manage data at the bit level.
 
 ## 📬 Connect with me
 * 📧 [torsumethkkhoyo@gmail.com](mailto:torsumethkkhoyo@gmail.com)
